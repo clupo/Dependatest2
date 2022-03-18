@@ -4,11 +4,11 @@ version: 2
 updates:
 
   - package-ecosystem: "npm"
-    directory: "/"
+    directory: "/NodejsWebApp1"
     schedule:
       interval: "daily"
 
   - package-ecosystem: "nuget"
-    directory: "/"
+    directory: "/WebApplication1"
     schedule:
       interval: "daily"
