@@ -46,6 +46,32 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "CrossBreeze.CrossTest": {
+              "target": "Package",
+              "version": "[1.0.2.3, )"
+            },
+            "DotFramework.Infra.Caching": {
+              "target": "Package",
+              "version": "[2.97.0, )"
+            },
+            "KSG.Data.Core": {
+              "target": "Package",
+              "version": "[1.4.1227.3, )"
+            },
+            "Nodsoft.WowsReplaysUnpack": {
+              "target": "Package",
+              "version": "[0.5.1, )"
+            },
+            "SettingsDb": {
+              "target": "Package",
+              "version": "[1.1.0, )"
+            },
+            "pdbme.pdbInfrastructure": {
+              "target": "Package",
+              "version": "[1.0.4, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
