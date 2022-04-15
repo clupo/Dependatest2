@@ -1,5 +1,8 @@
 {
   "extends": [
     "config:base"
-  ]
+  ],
+  "groupName": "Package Updates",
+  "timezone": "America/New_York",
+  "schedule": ["every 1 hours every weekday"]
 }
