@@ -3,7 +3,7 @@
     "config:base"
   ],
   "timezone": "America/New_York",
-  "schedule": ["every 2 hours every weekday"],
+  "schedule": ["every 1 hours every weekday"],
   "rangeStrategy": "bump",
   "prHourlyLimit": 0,
   "branchConcurrentLimit": 0,
