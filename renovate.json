@@ -4,5 +4,8 @@
   ],
   "timezone": "America/New_York",
   "schedule": ["every 2 hours every weekday"],
-  "rangeStrategy": "bump"
+  "rangeStrategy": "bump",
+  "prHourlyLimit": 0,
+  "branchConcurrentLimit": 0,
+  "prConcurrentLimit": 0
 }
