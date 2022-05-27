@@ -2,15 +2,6 @@
   "extends": [
     "config:base"
   ],
-  "packageRules": [
-    {
-      "groupName": "NuGet packages 2",
-      "matchUpdateTypes": ["patch", "minor"],
-      "matchDepTypes": [
-        "nuget"
-      ]
-    }
-  ],
   "timezone": "America/New_York",
   "schedule": ["every 1 hours every weekday"]
 }
