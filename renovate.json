@@ -3,5 +3,6 @@
     "config:base"
   ],
   "timezone": "America/New_York",
-  "schedule": ["every 2 hours every weekday"]
+  "schedule": ["every 2 hours every weekday"],
+  "rangeStrategy": "bump"
 }
