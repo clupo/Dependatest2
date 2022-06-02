@@ -7,7 +7,7 @@
     "name": ""
   },
   "dependencies": {
-    "angular": "^1.8.2",
+    "angular": "^1.8.3",
     "async": "^3.2.3",
     "bower": "^1.8.14",
     "cheerio": "^1.0.0-rc.10",
