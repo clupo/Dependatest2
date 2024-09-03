@@ -23,7 +23,7 @@
     "node-browserify": "^1.0.0",
     "node-less": "^1.0.0",
     "node-mysql": "^0.4.2",
-    "nodemailer": "^6.7.2",
+    "nodemailer": "^6.9.15",
     "pm2": "^5.2.0",
     "pug": "^3.0.2",
     "react": "^18.0.0",
