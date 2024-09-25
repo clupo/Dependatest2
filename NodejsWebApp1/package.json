@@ -30,6 +30,6 @@
     "restify": "^8.6.1",
     "socket.io": "^4.4.1",
     "underscore": "^1.13.2",
-    "webpack": "^5.70.0"
+    "webpack": "^5.95.0"
   }
 }
